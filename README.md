@@ -14,6 +14,8 @@ The main operating system for both personal and professional use is Windows foll
 The first two age ranges concentrate more than 60% of the respondents, thus: - 23 to 34 years of age and 18 to 24 years of age.
 70% is concentrated in the male gender and 10% in the female gender.
 55% of those surveyed are from the United States, followed by India at 18% and Germany at 14% and compared to the annual average income in USD in developed countries, in order to analyze the income, it is should take into account the cost of living in each country to determine the actual net income.
+# Millions of data, millions of paths with opportunities.
+blog post: https://medium.com/@fabian.perez.arevalo/millions-of-data-millions-of-paths-with-opportunities-f1fbbcc56577
 # Author
 **Fabian Perez Arevalo** 
 https://github.com/FAPEAR/Project_Writing_a_Data_Scientist_Blog_Post_Stackoverflow_Survey2022
